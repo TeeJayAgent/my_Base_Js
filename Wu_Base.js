@@ -1,4 +1,4 @@
-
+/*js基础库，需要配合兼容库使用*/
 var $=function(args){
     return new Wu_Base(args);
 };
